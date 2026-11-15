@@ -1,4 +1,4 @@
-Sales Data Analyzer
+#Sales Data Analyzer
 
 A beginner-friendly Python project for analyzing sales data using Pandas and Matplotlib.
 
